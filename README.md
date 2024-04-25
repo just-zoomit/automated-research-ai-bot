@@ -1,4 +1,4 @@
-# Meeting Bot Starter Kit - Recall.ai
+# Automated Research Ai Bot- Recall.ai
 
 The Meeting Bot Starter Kit is a boilerplate Zoom Meeting assistant built using [Recall.ai](https://recall.ai), [Anthropic's Claude API](https://docs.anthropic.com/claude/reference/getting-started-with-the-api), and the [Zoom Apps SDK](https://developers.zoom.us/docs/zoom-apps/).
 
