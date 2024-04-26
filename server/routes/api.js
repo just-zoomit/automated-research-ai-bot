@@ -57,7 +57,7 @@ router.post('/start-recording', session, async (req, res, next) => {
         const bot = await recallFetch('/api/v1/bot', {
             method: 'POST',
             body: JSON.stringify({
-                bot_name: `${process.env.BOT_NAME} Notetaker`,
+                bot_name: `${process.env.BOT_NAME}`,
                 meeting_url: req.body.meetingUrl,
                 transcription_options: {
                     provider: 'default',

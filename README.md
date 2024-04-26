@@ -6,9 +6,10 @@ Using an automated Zoom Meeting client, it generates a transcript, requests a su
 
 Use this sample to build your own Meeting assistant by customizing the Meeting participant tile, summarization, and Zoom App.
 
-## Demo
+Demo
 
-[![Demo: Meeting bot starter kit with Recall.ai](https://img.youtube.com/vi/7h3rLJUMtS4/0.jpg)](https://www.youtube.com/watch?v=7h3rLJUMtS4 'Demo: Meeting bot starter kit with Recall.ai')
+![ Research AI Bot](/docs/images/AI-image.png)
+
 
 ## Features
 
