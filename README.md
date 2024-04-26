@@ -8,7 +8,7 @@ Use this sample to build your own Meeting assistant by customizing the Meeting p
 
 Demo
 
-![ Research AI Bot](/docs/images/AI-image.png)
+![Research AI Bot](/docs/images/AI-image.png)
 
 
 ## Features
